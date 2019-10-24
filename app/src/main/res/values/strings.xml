@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">PmdmListaCompra</string>
+    <!-- Lacteos -->
+    <string name="leche">Leche Entera 2€</string>
+    <string name="queso">Queso 4€</string>
+    <string name="mantequilla">Mantequilla 10€</string>
+    <!-- Carne -->
+    <string name="chuleton">Chuletón 20€</string>
+    <string name="solomillo">Solomillo 10€</string>
+    <string name="raboToro">Rabo de toro 30€</string>
+    <!-- Verdura -->
+    <string name="col">Col 1€</string>
+    <string name="lechuga">lechuga 1€</string>
+    <string name="calabaza">calabaza 3€</string>
+    <!-- Pescado -->
+    <string name="boquerones">boquerones 4€</string>
+    <string name="calamares">calamares 7€</string>
+    <string name="pulpo">pulpo 12€</string>
+
+    <string name="carnes">Carnes</string>
+    <string name="pescados">pescados</string>
+    <string name="verduras">verduras</string>
+    <string name="lacteos">lacteos</string>
+
+    <string name="factura">Factura</string>
+
+    <string name="compra">Compra</string>
+
+    <string name="btCesta">Añadir a la cesta</string>
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Lacteos">
+        <item>@string/leche</item>
+        <item>@string/mantequilla</item>
+        <item>@string/queso</item>
+    </string-array>
+    <string-array name="Carne">
+        <item>@string/chuleton</item>
+        <item>@string/solomillo</item>
+        <item>@string/raboToro</item>
+    </string-array>
+    <string-array name="Verdura">
+        <item>@string/calabaza</item>
+        <item>@string/col</item>
+        <item>@string/lechuga</item>
+    </string-array>
+    <string-array name="Pescado">
+        <item>@string/pulpo</item>
+        <item>@string/calamares</item>
+        <item>@string/boquerones</item>
+    </string-array>
+</resources>
