@@ -18,6 +18,7 @@ public class MainActivity extends AppCompatActivity{
     Button lacteos, verduras, carnes, pescados, factura;
     TextView tvM;
     private double total;
+    private double suma;
 
     // Variable para el Itent
     private static final String A = "A";
@@ -39,9 +40,9 @@ public class MainActivity extends AppCompatActivity{
 
         // Get intent de lacteos y sumarlo al total
         Intent intent = getIntent();
-        intent.getDoubleExtra("B",0);
+        suma = intent.getDoubleExtra("B",0);
 
-        
+
 
         lacteos.setOnClickListener(new View.OnClickListener() {
             @Override
